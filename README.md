@@ -1,5 +1,7 @@
 # awesome-security-python-training
-This repo will turn into a list of training materials for python starters with focus on security
+This repo will turn into a list of training materials for python starters with focus on security.
+
+Of course the number of training materials and documentation for python is near to endless, but that should give you a good starting point.
 
 ## Awesome lists
 
