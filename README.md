@@ -31,3 +31,4 @@ Other awesome lists
 ## Commercial
 
 * SANS SEC573: Automating Information Security with Python https://www.sans.org/course/automating-information-security-with-python
+* https://www.udemy.com/mastering-python-networking-and-security/
