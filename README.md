@@ -1,6 +1,12 @@
 # awesome-security-python-training
 This repo will turn into a list of training materials for python starters with focus on security
 
+## Awesome lists
+
+Other awesome lists
+
+* https://github.com/vinta/awesome-python
+
 ## Tutorials
 
 * https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567
