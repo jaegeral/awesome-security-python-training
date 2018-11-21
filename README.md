@@ -28,6 +28,7 @@ Other awesome lists
 ## Free online courses
 
 * https://www.cybrary.it/course/python/
+* https://github.com/Rafiot/Python3Course
 
 ## Commercial
 
