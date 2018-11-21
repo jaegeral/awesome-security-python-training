@@ -24,6 +24,10 @@ Other awesome lists
 
 * https://www.youtube.com/watch?v=lyJfLUYQA5w&list=PLNmsVeXQZj7onbtIXvxZTzeKGnzI6NFp_
 
+## Free online courses
+
+* https://www.cybrary.it/course/python/
+
 ## Commercial
 
 * SANS SEC573: Automating Information Security with Python https://www.sans.org/course/automating-information-security-with-python
