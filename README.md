@@ -19,6 +19,7 @@ Other awesome lists
 
 * https://hackernoon.com/please-be-lazy-and-automate-your-coding-7a0d948324b3
 * https://opensource.com/article/17/9/open-source-licensing
+* https://medium.com/cyberdefenders/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976
 
 ## Youtube
 
